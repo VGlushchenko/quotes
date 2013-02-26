@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184810c-899a-4f95-b81c-56d1c4153cc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/escheresque_ste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/util/HibernateUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/dao/QuoteDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="src/main/resources/hibernate.cfg.xml" />
     <file path="/web.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361825455292" ignored="false" />
-    <file path="/Dummy.txt" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361912378986" ignored="false" />
+    <file path="/Dummy.txt" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913310142" ignored="false" />
     <file path="/pom.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361906299959" ignored="false" />
     <file path="/MainController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361912169968" ignored="false" />
     <file path="/hibernate.cfg.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361910266125" ignored="false" />
@@ -807,7 +802,11 @@
       <created>1361912381672</created>
       <updated>1361912381672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ranndom select quotes">
+      <created>1361913311357</created>
+      <updated>1361913311357</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
