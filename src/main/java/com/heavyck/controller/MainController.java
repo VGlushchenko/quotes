@@ -27,7 +27,7 @@ public class MainController {
         quote.setAuthor(author);
 
         Quote quote2 = new Quote();
-        quote2.setId(1L);
+        quote2.setId(2L);
         quote2.setQuote("quote 2");
         quote2.setCategory("category 2");
         quote2.setAuthor(author);
@@ -36,7 +36,11 @@ public class MainController {
         quotes.add(quote);
         quotes.add(quote2);
 
-        model.addAttribute("quotes", quotes);
+        int numberOfQuotes = quotes.size();
+
+        int quoteNumber= (int) (Math.random() * numberOfQuotes);
+
+        model.addAttribute("quote", quotes.get(quoteNumber));
 
         return "quotes";
     }

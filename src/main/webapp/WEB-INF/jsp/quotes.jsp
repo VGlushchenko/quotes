@@ -13,11 +13,9 @@
     <body>
 
         <div style="padding: 20px">
-            <c:forEach var="quote" items="${quotes}">
                 <div><c:out value="${quote.quote}" /></div>
                 <div><c:out value="${quote.category}" /></div>
                 <div><c:out value="${quote.author.name}" /></div>
-            </c:forEach>
         </div>
 
         To be developed...
