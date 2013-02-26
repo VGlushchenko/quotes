@@ -1,3 +1,6 @@
+body {
+    background-image: url("../img/escheresque_ste.png");
+}
 table {
 	border-collapse: collapse;
 	width: 60%;
