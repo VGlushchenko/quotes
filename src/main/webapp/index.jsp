@@ -7,7 +7,7 @@
     <body>
         <h1>Title</h1>
         <h1>Title2</h1>
-        <h1>Title3</h1>
+        <h1><a href="/quotes">Quotes</a></h1>
         <input type="button" id="add-button" value="Add new row" />
         <table>
             <tr>

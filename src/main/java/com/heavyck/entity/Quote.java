@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class Quote {
 
     @Id
-    @Column
+    @GeneratedValue
     Long id;
 
     @Column(name = "quote")
