@@ -8,7 +8,7 @@ public class Quote {
 
     @Id
     @GeneratedValue
-    Long id;
+    int id;
 
     @Column(name = "quote")
     String quote;
@@ -20,11 +20,11 @@ public class Quote {
     @JoinColumn(name = "author")
     Author author;
 
-    public Long getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

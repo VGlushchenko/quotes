@@ -18,6 +18,8 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <mvc:resources mapping="/favicon.ico" location="/"/>
+
     <context:annotation-config/>
     <context:component-scan base-package="com.heavyck" />
 </beans>

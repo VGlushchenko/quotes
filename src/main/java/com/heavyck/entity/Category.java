@@ -1,17 +1,20 @@
 package com.heavyck.entity;
 
-import javax.persistence.*;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
-@Table(name = "authors")
-public class Author {
+@Table(name = "categories")
+public class Category {
 
     @Id
-    @GeneratedValue
-    int id;
+    @Column
+    private int id;
 
-    @Column(name = "name")
-    String name;
+    @Column
+    private String name;
 
     public int getId() {
         return id;

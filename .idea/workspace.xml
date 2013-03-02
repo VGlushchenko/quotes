@@ -1,30 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1184810c-899a-4f95-b81c-56d1c4153cc4" name="Default" comment="">
+    <list default="true" id="1184810c-899a-4f95-b81c-56d1c4153cc4" name="Default" comment="background image">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/Ouroboros120x104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/Ouroboros120x104_hover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/paper_fibers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/dao/AuthorDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Category.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/dao/CategoryDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sdicons_jsontools_jsontools_core_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/administration.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/quotes-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-security.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Quote.java" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Quote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heavyck/dao/QuoteDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/dao/QuoteDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java" afterPath="$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\GitHub\quotes\src\main\webapp\img\escheresque_ste.png" afterPath="$PROJECT_DIR$/src/main/webapp/img/escheresque_ste.jpg" />
+      <change type="MOVED" beforePath="D:\GitHub\quotes\src\main\webapp\WEB-INF\mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="src/main/resources/hibernate.cfg.xml" />
-    <file path="/web.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361825455292" ignored="false" />
-    <file path="/Dummy.txt" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913435694" ignored="false" />
-    <file path="/pom.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361906299959" ignored="false" />
-    <file path="/MainController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361912169968" ignored="false" />
-    <file path="/hibernate.cfg.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361910266125" ignored="false" />
+    <file path="/web.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361995390920" ignored="false" />
+    <file path="/Dummy.txt" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362218748409" ignored="false" />
+    <file path="/pom.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362243037628" ignored="false" />
+    <file path="/MainController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362241151987" ignored="false" />
+    <file path="/hibernate.cfg.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362167617439" ignored="false" />
     <file path="/mvc-dispatcher-servlet.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361908944706" ignored="false" />
-    <file path="/fragment.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913915352" ignored="false" />
+    <file path="/fragment.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362167539952" ignored="false" />
     <file path="/Quote.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361908438005" ignored="false" />
-    <file path="/Author.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361908323335" ignored="false" />
-    <file path="/quotes.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913303347" ignored="false" />
-    <file path="/QuoteService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361910676259" ignored="false" />
-    <file path="/index.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361914283482" ignored="false" />
-    <file path="/Main.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361912231859" ignored="false" />
-    <file path="/QuoteDAO.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913004952" ignored="false" />
-    <file path="/a.dummy" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361912896129" ignored="false" />
-    <file path="/style.css" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361913211161" ignored="false" />
+    <file path="/Author.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362000117455" ignored="false" />
+    <file path="/quotes.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362240152085" ignored="false" />
+    <file path="/QuoteService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362224924641" ignored="false" />
+    <file path="/index.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990409857" ignored="false" />
+    <file path="/Main.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361998435905" ignored="false" />
+    <file path="/QuoteDAO.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362002708668" ignored="false" />
+    <file path="/a.dummy" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361995287926" ignored="false" />
+    <file path="/style.css" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362169638134" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/controller/SecurityController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/form/RegistrationForm.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/AdminService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/controller/TransactionController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/RegistrationService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/dao/UserDao.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/domain/Transaction.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/domain/User.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361991662061" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/controller/UserViewController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/CreditCard/IncreaseBalanсeService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990320843" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/dao/UserDaoTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/CreditCard/ValidCreditCardService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992192340" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/dao/TransactionDaoTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/dao/CommonDao.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/form/LoginForm.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/TransactionService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/resources/hibernate.cfg.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992198082" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/form/LoginFormTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/AdminServiceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/inviteServiceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/SecurityServiceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/TransactionServiceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/resources/hibernate.cfg.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992187549" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/ValidCreditCardserviceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318487" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/creditcard/IncreaseBalanceServiceTest.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/test/java/com/mypal/service/creditcard/ValidCreditCardService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/facebook/FacebookService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/ValidUser/SessionValidService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/ValidUser/ValidUserAndRedirecttoLogin.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/controller/AdminController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990320843" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/controller/SingInFbController.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361991651366" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/dao/TransactionDao.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/facebook/Facebook.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/util/HibernateUtil.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/util/SecurityUtil.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/java/com/mypal/service/InviteService.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361990318488" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/webapp/index.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992198082" ignored="false" />
+    <file path="/User.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361991644719" ignored="false" />
+    <file path="dbtable:/b5b63b9c/23220482-8cd7-4f48-8fe2-8a9bf3b1b9f4/mypal..users" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361991843284" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/db/create_table_users.sql" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992017128" ignored="false" />
+    <file path="dbtable:/b5b63b9c/23220482-8cd7-4f48-8fe2-8a9bf3b1b9f4/mypal..transactions" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992031327" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/db/create_table_transactions.sql" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992058538" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/.gitignore" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992198082" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/src/main/webapp/WEB-INF/web.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992198082" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/pom.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992198082" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/MyPal.iml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361992812474" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyPal/.idea/workspace.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361993176120" ignored="false" />
+    <file path="/AuthorDAO.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361994978284" ignored="false" />
+    <file path="/db.quotes" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361999085793" ignored="false" />
+    <file path="/dummy.sql" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362000063700" ignored="false" />
+    <file path="/a.sql" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362000063700" ignored="false" />
+    <file path="/quotes-view.js" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362232241931" ignored="false" />
+    <file path="/Category.java" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362167499234" ignored="false" />
+    <file path="/administration.jsp" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362240939061" ignored="false" />
+    <file path="/spring-security.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1362242447060" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,76 +177,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="administration.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/administration.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="41" selection-start="953" selection-end="953" vertical-scroll-proportion="-10.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="quotes.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="33" selection-start="492" selection-end="492" vertical-scroll-proportion="-11.115385">
+            <state line="7" column="57" selection-start="194" selection-end="194" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="41" selection-start="276" selection-end="276" vertical-scroll-proportion="0.4">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="35" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuoteService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+            <state line="51" column="32" selection-start="1899" selection-end="1899" vertical-scroll-proportion="0.36135957">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-security.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="28" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#998#1005#0" expanded="true" />
+                <marker date="1362243254479" expanded="true" signature="67:896" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="51" selection-start="891" selection-end="891" vertical-scroll-proportion="0.0">
+            <state line="27" column="12" selection-start="929" selection-end="929" vertical-scroll-proportion="-5.72">
               <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="19" selection-start="1995" selection-end="1995" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1362243203655" expanded="true" signature="1424:1601" placeholder="..." />
+                <marker date="1362243203655" expanded="true" signature="1620:1796" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quote.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/entity/Quote.java">
+      <file leaf-file-name="quotes-view.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/quotes-view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Author.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
+            <state line="9" column="48" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -182,20 +273,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Quote.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/util/HibernateUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/heavyck/dao/QuoteDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/entity/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/dao/CategoryDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/style.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/quotes-view.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp" />
+        <option value="dbtable:/3e55aeaa/db3fd65d-5cbc-428b-a598-4846dd14f281/db..authors" />
+        <option value="dbtable:/3e55aeaa/db3fd65d-5cbc-428b-a598-4846dd14f281/db..quotes" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/administration.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-security.xml" />
       </list>
     </option>
   </component>
@@ -223,6 +316,31 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring Model</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringSecurityFiltersConfiguredInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -252,6 +370,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -345,6 +465,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,8 +742,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -608,32 +752,36 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settings.project.maven.importing" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyPal" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.9" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heavyck.dao" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\quotes\src\main\webapp\img" />
       <recent name="D:\GitHub\quotes\src\main\webapp" />
       <recent name="D:\GitHub\quotes\src\main\webapp\css" />
       <recent name="D:\GitHub\quotes\src\main\java\com\heavyck\util" />
       <recent name="D:\GitHub\quotes\src\main\webapp\WEB-INF" />
-      <recent name="D:\GitHub\quotes\src\main\resources" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\quotes\src\main\webapp\img" />
       <recent name="D:\GitHub\quotes\src\main\webapp\js" />
       <recent name="D:\GitHub\quotes\src\main\webapp\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Quotes">
@@ -650,7 +798,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="test" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -666,6 +820,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -694,19 +861,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -745,6 +899,12 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
       <deployment />
       <server-settings />
@@ -753,6 +913,7 @@
       <method />
     </configuration>
     <configuration default="false" name="Quotes" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.01">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
       <deployment>
         <artifact name="test:war exploded">
           <settings>
@@ -824,8 +985,8 @@
       </method>
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Quotes" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Quotes" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -892,20 +1053,25 @@
       <created>1361913437742</created>
       <updated>1361913437742</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="background image">
+      <created>1361914363232</created>
+      <updated>1361914363232</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17777778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.21880342" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.21880342" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.82222223" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.47350428" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52649575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -914,16 +1080,15 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.73333335" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700855" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.47350428" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26666668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1025,130 +1190,134 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/dao/CategoryDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="10" selection-start="2183" selection-end="2183" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="891" selection-end="891" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="42" selection-start="1234" selection-end="1234" vertical-scroll-proportion="-9.64">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="81" selection-end="81" vertical-scroll-proportion="-7.031884">
+        <state line="20" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/entity/Quote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/util/HibernateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="17" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/dao/QuoteDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="29" selection-start="2974" selection-end="2974" vertical-scroll-proportion="4.9768114">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#781#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#998#1005#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="68" selection-start="667" selection-end="667" vertical-scroll-proportion="0.2527881">
+        <state line="98" column="0" selection-start="2914" selection-end="2914" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="44" selection-start="781" selection-end="781" vertical-scroll-proportion="0.54382825">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#671#678#0" expanded="true" />
-          </folding>
+        <state line="18" column="38" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/escheresque_ste.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/entity/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+        <state line="19" column="25" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quotes.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="492" selection-end="492" vertical-scroll-proportion="-11.115385">
+        <state line="7" column="57" selection-start="194" selection-end="194" vertical-scroll-proportion="-2.6153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/quotes-view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="41" selection-start="276" selection-end="276" vertical-scroll-proportion="0.4">
+        <state line="9" column="48" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/3e55aeaa/db3fd65d-5cbc-428b-a598-4846dd14f281/db..authors">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/service/QuoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="359" selection-end="359" vertical-scroll-proportion="0.55921054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="83" selection-start="248" selection-end="248" vertical-scroll-proportion="0.31384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/administration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="41" selection-start="953" selection-end="953" vertical-scroll-proportion="-10.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/3e55aeaa/db3fd65d-5cbc-428b-a598-4846dd14f281/db..quotes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="52" selection-start="352" selection-end="352" vertical-scroll-proportion="0.501845">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="12" selection-start="929" selection-end="929" vertical-scroll-proportion="-5.72">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="19" selection-start="1995" selection-end="1995" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1362243203655" expanded="true" signature="1424:1601" placeholder="..." />
+            <marker date="1362243203655" expanded="true" signature="1620:1796" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="28" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1362243254479" expanded="true" signature="67:896" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heavyck/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="32" selection-start="1899" selection-end="1899" vertical-scroll-proportion="0.36135957">
           <folding />
         </state>
       </provider>
