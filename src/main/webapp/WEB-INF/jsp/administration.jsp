@@ -3,6 +3,7 @@
 
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="js/jquery.js"></script>
@@ -12,9 +13,9 @@
     </head>
     <body>
         <div>
-            <form action="quotes/add" method="POST">
+            <form action="add" method="POST">
                 <p>Quote</p>
-                <p><textarea rows="10" cols="45" name="quote"></textarea></p>
+                <p><textarea rows="10" cols="45" name="quote" ch></textarea></p>
                 <div>
                     <select name="author">
                         <c:forEach var="author" items="${authors}">
@@ -27,6 +28,12 @@
                     </div>
                 </div>
                 <p><input type="submit" value="Отправить"></p>
+            </form>
+
+            <form action="newAuthor"method="POST">
+                <p>New Author</p>
+                <p><input type="text" name="newAuthor"></p>
+                <input type="submit" value="add">
             </form>
         </div>
     </body>

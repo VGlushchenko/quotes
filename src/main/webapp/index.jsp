@@ -1,3 +1,5 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<c:redirect url="/quotes" />
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="css/style.css">

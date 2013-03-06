@@ -9,6 +9,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="js/jquery.js"></script>
@@ -17,24 +18,54 @@
         <title>Quotes</title>
     </head>
     <body>
+        <div id="main">
+            <div id="header">
 
-        <div class="quote-box">
-            <div>
-                <div style="height: 75px">
-                    <p class="quote"><c:out value="${randomQuote.quote}" /></p>
+            </div>
 
-                    <div class="quotes-author" style="text-align: right">
-                        <c:out value="${randomQuote.author.name}" />
+            <div id="nav">
+                <ul style="list-style:none">
+                    <li>
+                        <div>
+                            <a href="/quotes">Главная</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <a href="/quotes/administration">Administration</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <a href="/quotes">quotes</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <a href="/quotes">quotes</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="quote-box">
+                <div>
+                    <div style="height: 75px">
+                        <p class="quote"><c:out value="${randomQuote.quote}" /></p>
+
+                        <div class="quotes-author" style="text-align: right">
+                            <c:out value="${randomQuote.author.name}" />
+                        </div>
+                    </div>
+
+                    <div class="quote-category">
+                        <c:out value="${randomQuote.category}" />
                     </div>
                 </div>
-
-                <div class="quote-category">
-                    <c:out value="${randomQuote.category}" />
-                </div>
             </div>
-        </div>
 
-        <p><a class="new-random-quote" href="/quotes"></a></p>
-        <div class="new-random-quote"></div>
+            <div class="new-random-quote">Show new quote</div>
+
+        </div>
     </body>
 </html>

@@ -7,7 +7,7 @@
            http://www.springframework.org/schema/security/spring-security-3.1.xsd">
 
     <http auto-config="true">
-        <intercept-url pattern="/administration*" access="ROLE_ADMIN" />
+        <intercept-url pattern="/quotes/administration*" access="ROLE_ADMIN" />
     </http>
 
     <authentication-manager>

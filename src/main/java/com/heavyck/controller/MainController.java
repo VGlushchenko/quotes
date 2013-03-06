@@ -23,25 +23,26 @@ import java.util.List;
 import java.util.Map;
 
 @Controller
+@RequestMapping(value = "/quotes")
 public class MainController {
 
-    @RequestMapping(value = "/quotes", method = RequestMethod.GET)
-    public String main(Model model) throws SQLException {
+    @RequestMapping(value = "", method = RequestMethod.GET)
+    public String main(Model model) throws SQLException, IOException {
         model.addAttribute("randomQuote", QuoteService.getRandomQuote());
+        model.addAttribute("quotes", QuoteDAO.load());
 
         return "quotes";
     }
 
     @ResponseBody
-    @RequestMapping(value = "/quotes/json", method = RequestMethod.POST)
+    @RequestMapping(value = "/json", method = RequestMethod.POST)
     public Quote json(Model model) throws SQLException {
-        model.addAttribute("randomQuote", QuoteService.getRandomQuote());
         Quote quote = QuoteService.getRandomQuote();
 
         return quote;
     }
 
-    @RequestMapping(value = "/quotes/add", method = RequestMethod.POST)
+    @RequestMapping(value = "/add", method = RequestMethod.POST)
     public String addQuote(@RequestParam("quote") String quote,
                            @RequestParam("author") String author_id,
                            @RequestParam("category") String category) throws SQLException, IOException {
@@ -53,7 +54,7 @@ public class MainController {
 
         QuoteDAO.save(newQuote);
 
-        return "quotes";
+        return "redirect:/quotes";
     }
 
     @RequestMapping(value = "/administration", method = RequestMethod.GET)
@@ -63,4 +64,14 @@ public class MainController {
         return "administration";
     }
 
+    @RequestMapping(value = "/add", method = RequestMethod.POST)
+    public String addAuthor(@RequestParam("newAuthor") String newAuthor) throws SQLException, IOException {
+
+        Author author = new Author();
+        author.setName(newAuthor);
+
+        AuthorDAO.save(author);
+
+        return "redirect:/administration";
+    }
 }

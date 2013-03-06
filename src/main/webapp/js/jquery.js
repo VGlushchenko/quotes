@@ -12,4 +12,5 @@ $(document).ready(function() {
 	$("td:nth-child(n+2)").css("text-align", "right");
 	$("tr:last-of-type").css("font-weight", "bolder");
 	$("table:nth-of-type(2) tr:nth-of-type(odd)").css("background-color", "red");
+	$('table').after($('input'));
 });

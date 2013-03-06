@@ -2,6 +2,7 @@ package com.heavyck.dao;
 
 import com.heavyck.entity.Quote;
 import com.heavyck.util.HibernateUtil;
+import org.apache.commons.dbcp.BasicDataSource;
 import org.hibernate.Session;
 
 import org.hibernate.Query;
@@ -85,7 +86,7 @@ public class QuoteDAO {
         return quotes;
     }
 
-    public static Quote getRandomQuote() throws SQLException {
+    /*public static Quote getRandomQuote() throws SQLException {
         Quote quote = null;
         Session session = HibernateUtil.getSessionFactory().openSession();
         session.beginTransaction();
@@ -98,15 +99,26 @@ public class QuoteDAO {
             int result = (int) (Math.random() * maxId + 1);
 
             quote = getById(result);
-            if(quote != null) {
-                break;
-            }
         }
 
         session.getTransaction().commit();
         session.close();
 
         return quote;
+    }*/
+
+    public static int getMaxId() throws SQLException {
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        session.beginTransaction();
+
+        Query query = session.createSQLQuery("SELECT MAX(id) FROM quotes;");
+
+        int maxId = (Integer) query.list().get(0);
+
+        session.getTransaction().commit();
+        session.close();
+
+        return maxId;
     }
 
     public static void update(Quote quote) throws SQLException {
